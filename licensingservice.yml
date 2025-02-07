@@ -1,1 +1,6 @@
-
+# licensingservice.yml
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/licensingdb
+    username: postgres
+    password: defaultPassword
